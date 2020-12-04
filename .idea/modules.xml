@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/伺服器端/伺服器端.iml" filepath="$PROJECT_DIR$/伺服器端/伺服器端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/客戶端/客戶端.iml" filepath="$PROJECT_DIR$/客戶端/客戶端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/聊天程式.iml" filepath="$PROJECT_DIR$/聊天程式.iml" />
+    </modules>
+  </component>
+</project>
